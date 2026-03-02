@@ -1,4 +1,5 @@
 **Task 02: Customer Retention % Churn Analysis**
+
 **🔍 Project Overview**
 This project focuses on analyzing customer churn patterns, identifying key retention drivers, and uncovering customer lifetime trends for a subscription-based business.
 
