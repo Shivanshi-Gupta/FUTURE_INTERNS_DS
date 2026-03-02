@@ -128,9 +128,9 @@ Use segmentation to design personalized marketing strategies.
 
 **📎 Project Files**
 
-📊 Complete Business Report → [FutureInterns_Task1.docx](https://github.com/user-attachments/files/25672609/FutureInterns_Task1.docx)
+📊 Complete Business Report → [Task1_Business_Report.docx](https://github.com/user-attachments/files/25672609/FutureInterns_Task1.docx)
 .pdf
 
 📓 Full Analysis Notebook (Google Colab) → Link provided in Colab_Link.txt
 
-📁 Graphs & Dashboard Screenshots → /Assets folder
+📁 Graphs & Dashboard Screenshots → /Output Images folder
