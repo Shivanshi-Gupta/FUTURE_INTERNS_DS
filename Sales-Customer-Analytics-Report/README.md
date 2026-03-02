@@ -1,4 +1,4 @@
- **Sales & Customer Analytics Report** : End-to-End Business Analysis using Real-World Sales Data
+ **Task 01: Sales & Customer Analytics Report** - End-to-End Business Analysis using Real-World Sales Data
 
 **🔍 Project Overview**
 
